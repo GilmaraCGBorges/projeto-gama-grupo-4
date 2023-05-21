@@ -7,7 +7,7 @@ Projeto Din Din Educação Financeira
 ## Descrição do Projeto
 <br>
 <p align="center"> Para visualizar o projeto no seu navegador:
- <a href="https:// project-dindin.netlify.app/"> Clique Aqui <a/>
+ <a href="https:// https://user-images.githubusercontent.com/50848988/239696592-73c42717-4210-4226-86c4-7158a505e32c.gif/"> Clique Aqui <a/>
  <a href="https:// projeto-dindin.netlify.app/"> Clique Aqui <a/>
 </p>
 
@@ -22,17 +22,7 @@ Programa IBRF e Gama Academy, com a finalidade de fortalecer a especialização 
 </h1>
 <p align="center">🚀 lib para construir interfaces do usuário com componentes reutilizáveis</p>
 
-* [Sobre](#Sobre)
-   * [Tabela de Conteudo](#tabela-de-conteudo)
-   * [Instalação](#instalacao)
-   * [Como usar](#como-usar)
-      * [Pre Requisitos](#pre-requisitos)
-      * [Local files](#local-files)
-      * [Remote files](#remote-files)
-      * [Multiple files](#multiple-files)
-      * [Combo](#combo)
-   * [Tests](#testes)
-   * [Tecnologias](#tecnologias)
+* 
 
 
 
