@@ -29,14 +29,12 @@ Programa IBRF e Gama Academy, com a finalidade de fortalecer a especialização 
 
 
 
-<img src="https://1drv.ms/i/s!ArGRlfRvBEWFiyx8-SEI9ho66Wtz?e=8hxAkq"/>
+<img src=""/>
 
 ✅ Tabela de Conteúdos
 Status: Obrigatório
 
-É ótimo colocar os índices de conteúdos, que é tabela onde a pessoa clica e vai para o tópico específico.
 
-Exemplo com markdown:
 
 Tabela de conteúdos
 =================
@@ -65,12 +63,9 @@ Tabela de conteúdos
 
 Objetivo • Roadmap • Tecnologias • Contribuição • Licença • Autor
 
-No README.md do Github você pode usar HTML o que ajuda muito. 👌
 
 ✅ Status do Projeto
-Status: Obrigatório
 
-Indica se o projeto está em desenvolvimento ou já foi concluído.
 
 <h4 align="center"> 
 	🚧  React Select 
@@ -78,10 +73,10 @@ Indica se o projeto está em desenvolvimento ou já foi concluído.
 Resultado:
 
 🚧 React Select 🚀 
-✅ Features
-Status: Opcional
 
-Você pode listar as funcionalidades da aplicação.
+
+
+
 
 
 
