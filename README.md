@@ -1,17 +1,15 @@
-# projeto-gama-grupo-4
+# Projeto Integrador
 <h1> Din Din
 <h2>Este projeto teve como finalidade colocar em prática os conhecimentos adquiridos nas aulas ministrada pelo programa IBRF e Gama Academy.
   Desenvolver uma website do inicio o final. 
-Pré-requisitos
+<h2>Recuros utilizados
 HTML5
 CSS3
 JavaScript
 Git
 GitHub
-Instalação
-Clone este repositório em sua máquina local usando o comando:
-shellCopy code
-git clone https://github.com/seu-usuario/nome-do-repositorio.git 
+
+  
 Abra o arquivo index.html no seu navegador web.
 Uso
 Descreva aqui como utilizar o projeto e como interagir com as diferentes partes do mesmo.
