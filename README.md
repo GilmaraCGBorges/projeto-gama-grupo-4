@@ -1,39 +1,25 @@
-# Projeto Integrador
-<h1> Din Din
-<h2>Este projeto teve como finalidade colocar em prática os conhecimentos adquiridos nas aulas ministrada pelo programa IBRF e Gama Academy.
-  Desenvolver uma website do inicio o final. 
-<h2>Recuros utilizados
-HTML5
-CSS3
-JavaScript
-Git
-GitHub
+# Nome do Projeto 
+ou
+<h1 align="center">Nome do Projeto</h1>
+## Descrição do Projeto
+<p align="center">Escrever uma breve descrição</p>
+
+<h1 align="center">
+    <a href="https://pt-br.reactjs.org/">🔗 React</a>
+</h1>
+<p align="center">🚀 lib para construir interfaces do usuário com componentes reutilizáveis</p>
+
+https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>&style=<STYLE>&logo=<LOGO>
+
+
+🛠 Tecnologias
+As seguintes ferramentas foram usadas na construção do projeto:
+
+HtML
+  CSS
+  Javascript
+  Git
 
   
-Abra o arquivo index.html no seu navegador web.
-Uso
-Descreva aqui como utilizar o projeto e como interagir com as diferentes partes do mesmo.
-Contribuição
-Contribuições são bem-vindas! Se você deseja contribuir para este projeto, siga as etapas abaixo:
-Faça um fork deste repositório.
-Crie uma nova branch com sua feature ou correção de bug:
-shellCopy code
-git checkout -b minha-feature 
-Faça as alterações necessárias e adicione os arquivos modificados:
-shellCopy code
-git add . 
-Faça o commit das suas alterações:
-shellCopy code
-git commit -m "Descrição das alterações" 
-Envie suas alterações para o seu fork:
-shellCopy code
-git push origin minha-feature 
-Abra um Pull Request para este repositório original.
-Licença
-Indique aqui a licença do projeto, por exemplo:
-Este projeto está licenciado sob a Licença MIT.
-Contato
-Inclua aqui informações para contato, como email ou links para perfis em redes sociais.
-Agradecimentos
-Agradeça às pessoas ou recursos que foram úteis para o desenvolvimento do projeto.
-
+✅ Contribuição
+Status: Opcional
