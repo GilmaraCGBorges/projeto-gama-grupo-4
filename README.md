@@ -1,15 +1,12 @@
-# Nome do Projeto 
-ou
-<h1 align="center">Nome do Projeto</h1>
+# Projeto Integrador  
+
+<h1 align="center">Projeto Integrador Web Site Din Din</h1>
 ## Descrição do Projeto
-<p align="center">Escrever uma breve descrição</p>
+<p align="center">Este projeto tem como finalidade</p>
 
 <h1 align="center">
-    <a href="https://pt-br.reactjs.org/">🔗 React</a>
-</h1>
-<p align="center">🚀 lib para construir interfaces do usuário com componentes reutilizáveis</p>
 
-https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>&style=<STYLE>&logo=<LOGO>
+https://github.com/SandroCrisAraujo/projeto_gama_grupo4.git=<LABEL>&message=<MESSAGE>&color=<COLOR>&style=<STYLE>&logo=<LOGO>
 
 
 🛠 Tecnologias
