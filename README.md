@@ -1,19 +1,20 @@
 # Projeto Integrador 
 
-<h1 align="center">Web Site Din Din</h1>
-Nome do Projeto
+<h1 align="center">Website Din Din - Educação Financeira</h1>
+Projeto Din Din Educação Financeira
 
 
 ## Descrição do Projeto
 <p align="center">Descrição</p>
-Escrever uma breve descrição
-
+Este projeto tem por finalidade, colocar em prática os aprendizados tidos nas aulas sincronas e assincronas. 
+Programa IBRF e Gama Academy, com a finalidade de fortalecer a especialização por meio da educação e promover desenvolvimento social.
+<img src="https://1drv.ms/i/s!ArGRlfRvBEWFiyx8-SEI9ho66Wtz?e=8hxAkq"/>
+ 
 <h1 align="center">
-    <a href="https://pt-br.reactjs.org/">🔗 React</a>
+    <a href="https://github.com/SandroCrisAraujo/projeto_gama_grupo4.git">
 </h1>
 <p align="center">🚀 lib para construir interfaces do usuário com componentes reutilizáveis</p>
-🔗 React
-🚀 lib para construir interfaces do usuário com componentes reutilizáveis
+
 * [Sobre](#Sobre)
    * [Tabela de Conteudo](#tabela-de-conteudo)
    * [Instalação](#instalacao)
@@ -28,17 +29,7 @@ Escrever uma breve descrição
 
 
 
-<img src="https://img.shields.io/static/v1?label=Blog&message=Rocketseat&color=7159c1&style=for-the-badge&logo=ghost"/>
-ou ainda em Markdown:
-
-![Badge](https://img.shields.io/badge/Blog-Rocketseat-%237159c1?style=for-the-badge&logo=ghost)
-Pronto. Veja como ficou o badge personalizado:
-
-
-Legal que no site shields.io tem o input search / project URL que você cola o link do projeto do seu Github e ele sugere alguns badges.
-
-https://blog.rocketseat.com.br/content/images/2020/07/como-escreve-um-bom-read-me-shields.png
-Tem esse repositório com algumas badges prontas: Naereen/badges
+<img src="https://1drv.ms/i/s!ArGRlfRvBEWFiyx8-SEI9ho66Wtz?e=8hxAkq"/>
 
 ✅ Tabela de Conteúdos
 Status: Obrigatório
@@ -66,10 +57,9 @@ Tabela de conteúdos
 <p align="center">
  <a href="#objetivo">Objetivo</a> •
  <a href="#roadmap">Roadmap</a> • 
- <a href="#tecnologias">Tecnologias</a> • 
- <a href="#contribuicao">Contribuição</a> • 
- <a href="#licenc-a">Licença</a> • 
- <a href="#autor">Autor</a>
+ <a href="#HTML - CSS-Javascript- GIT">Tecnologias</a> • 
+ <a href="#Sandro-Fernando- Cristian-Gilmara">Contribuição</a> • 
+  <a href="#autor">Autor</a>
 </p>
 
 
@@ -95,14 +85,3 @@ Você pode listar as funcionalidades da aplicação.
 
 
 
-### Features
-
-- [x] Cadastro de usuário
-- [x] Cadastro de cliente
-- [ ] Cadastro de produtos
-
-No Github ou gist fica com essa aparência abaixo. Resultado:
-
-https://blog.rocketseat.com.br/content/images/2020/07/Screen-Shot-2020-07-10-at-14.03.41.png
-✅ Demonstração da aplicação
-Status: Opcional
