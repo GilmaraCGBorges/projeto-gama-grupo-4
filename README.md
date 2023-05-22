@@ -23,12 +23,12 @@ Programa IBRF e Gama Academy, com a finalidade de fortalecer a especialização 
 </h1>
 <p align="center">🚀 Descrição</p>
 <h2>Recursos atualizados:
-	<p>align="left">
+	<p align="left"
 		HTML;
 		CSS;
 		Javascript.
 <h2>Contribuição:
-	<p>
+	<p align="left"
         Cristian
 	Fernando
 	Gilmara 
