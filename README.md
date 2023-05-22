@@ -10,7 +10,6 @@ Projeto Din Din Educação Financeira
  <a href="https:// https://user-images.githubusercontent.com/50848988/239696592-73c42717-4210-4226-86c4-7158a505e32c.gif/"> Clique Aqui <a/>
  <a href="https:// projeto-dindin.netlify.app/"> Clique Aqui <a/>
 </p>
-
 <br>
 <p align="center">"https://github.com/SandroCrisAraujo/projeto_gama_grupo4.git"</p>
 Este projeto tem por finalidade, colocar em prática os aprendizados obtidos nas aulas sincronas e assincronas. 
@@ -22,10 +21,11 @@ Programa IBRF e Gama Academy, com a finalidade de fortalecer a especialização 
 <h1 align="center">
     <a href="https://github.com/SandroCrisAraujo/projeto_gama_grupo4.git">
 </h1>
-<p align="center">🚀 lib para construir interfaces do usuário com componentes reutilizáveis</p>
+<p align="center">🚀 Descrição</p>
+	Contribuição
+	Agradecimento
+	
 * 
-<img src=""/>
-
 
 <p align="center">
  <a href="#Colocar em prática as aprendizagens em Aprendizado">Objetivo</a> •
