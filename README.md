@@ -16,8 +16,10 @@ Programa IBRF e Gama Academy, com a finalidade de fortalecer a especialização 
 	 Além da aprendizagem tecnológica, nós aprendiz, pudemos colocar em prática ou desenvolver algunas soft skill´s necessárias para trabalhos em  grupo:
 	 Responsabilidade, troca de conhecimento, empatia, saber lidar com as diferenças e diferentes formas de aprendizado.
 	O desenvolvimento deu-se com
-
-<h1 align="center">
+## Funcionalidade
+<p align="center">
+	
+	h1 align="center">
     <a href="https://github.com/SandroCrisAraujo/projeto_gama_grupo4.git">
 </p>
 <br>
