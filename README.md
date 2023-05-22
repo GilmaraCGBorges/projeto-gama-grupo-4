@@ -25,7 +25,7 @@ Programa IBRF e Gama Academy, com a finalidade de fortalecer a especialização 
 - 🗣️Acessibilidade 
 - 🕵 Otimização SEO
 
-![imagem](https://github.com/WeltonDev/din-din-project/blob/main/images/handsOnWeek1.jpg)
+![imagem](https://github.com/images/dindin-logo-white.png)
 
 * 🔗 Link do Projeto:
 > https://weltondev.github.io/din-din-project/
