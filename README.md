@@ -23,13 +23,11 @@ Programa IBRF e Gama Academy, com a finalidade de fortalecer a especialização 
 </h1>
 <p align="center">🚀 Descrição</p>
 	Recursos atualizados:</p>
-	<p align="left"
-		HTML;
-		CSS;
-		Javascript.
-	   Contribuição:</p>
-	<p align="left"
-        Cristian
+	HTML;CSS;Javascript.
+	 </p>
+	 Contribuição:</p>
+	
+	Cristian
 	Fernando
 	Gilmara 
 	Sandro Cristiano
