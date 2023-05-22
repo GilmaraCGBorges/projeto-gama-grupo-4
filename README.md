@@ -17,7 +17,7 @@ Programa IBRF e Gama Academy, com a finalidade de fortalecer a especialização 
 	 Responsabilidade, troca de conhecimento, empatia, saber lidar com as diferenças e diferentes formas de aprendizado.
 	O desenvolvimento deu-se com a distribuição de atividades para o desenvolvimento do projeto.
 	<p
-#  ![logo](https://github.com/WeltonDev/din-din-project/blob/main/images/dindin-logo-white.png)  Din Din Finanças 
+#  ![logo]()  Din Din Finanças 
 ##  ✅💻 Primeiro projeto desenvolvido no Gama Academy. 
 ### 🟢🟣 Atividade realizada com o intuito de consolidar os conhecimentos adquiridos em HTML, CSS, Git e GitHub.
 
@@ -28,7 +28,7 @@ Programa IBRF e Gama Academy, com a finalidade de fortalecer a especialização 
 !image[github.com/images/dindin-logo-white.png)
 
 * 🔗 Link do Projeto:
-> https://sandrocrisaraujo.github.io/projeto-gama-grupo-4< 
+> https://dindin-educacaofinanceira.netlify.app/
 * 🔗 Link do Modelo do Projeto no Figma:
 > https://www.figma.com/file/fBQ1nm00ynNQPK9GBwyMBc/dindin?node-id=0%3A1
 	
