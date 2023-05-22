@@ -11,30 +11,28 @@ Projeto Din Din Educação Financeira
  <a href="https:// projeto-dindin.netlify.app/"> Clique Aqui <a/>
 </p>
 <br>
-	 ## Descrição do Projeto
+Descrição do Projeto
 <p align="center">
 Este projeto tem por finalidade, colocar em prática os aprendizados obtidos nas aulas sincronas e assincronas. 
-	 
 Programa IBRF e Gama Academy, com a finalidade de fortalecer a especialização por meio da educação e promover desenvolvimento social.
 	 Além da aprendizagem tecnológica, nós aprendiz, pudemos colocar em prática ou desenvolver algunas soft skill´s necessárias para trabalhos em  grupo:
 	 Responsabilidade, troca de conhecimento, empatia, saber lidar com as diferenças e diferentes formas de aprendizado.
-<img src="https://1drv.ms/i/s!ArGRlfRvBEWFiyx8-SEI9ho66Wtz?e=8hxAkq"/>
- 
+
 <h1 align="center">
     <a href="https://github.com/SandroCrisAraujo/projeto_gama_grupo4.git">
 </p>
 <br>
 Recursos atualizados:<p>
-	 HTML
-	 CSS
-	 Javascript
+ HTML
+ CSS
+ Javascript
 	 
 </p>
 <br>
 Contribuição:
-	Cristian
-	Fernando
-	Gilmara 
+Cristian
+Fernando
+Gilmara 
 	Sandro Cristiano
 
 
