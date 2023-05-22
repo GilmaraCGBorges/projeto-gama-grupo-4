@@ -13,19 +13,19 @@ Projeto Din Din Educação Financeira<a href=images/dindin-logo-white.png
 <p align="center">
 Este projeto tem por finalidade, colocar em prática os aprendizados obtidos nas aulas sincronas e assincronas. 
 Programa IBRF e Gama Academy, com a finalidade de fortalecer a especialização por meio da educação e promover desenvolvimento social.
-	 Além da aprendizagem tecnológica, nós aprendiz, pudemos colocar em prática ou desenvolver algunas soft skill´s necessárias para trabalhos em  grupo:
+	 Além da aprendizagem tecnológica, nós pudemos colocar em prática ou desenvolver algunas soft skill´s necessárias para trabalhos em  grupo:
 	 Responsabilidade, troca de conhecimento, empatia, saber lidar com as diferenças e diferentes formas de aprendizado.
 	O desenvolvimento deu-se com a distribuição de atividades para o desenvolvimento do projeto.
 	<p
 #  ![logo](https://github.com/WeltonDev/din-din-project/blob/main/images/dindin-logo-white.png)  Din Din Finanças 
-##  ✅💻 Primeiro projeto desenvolvido no Gama Experience 41. 
+##  ✅💻 Primeiro projeto desenvolvido no Gama Academy. 
 ### 🟢🟣 Atividade realizada com o intuito de consolidar os conhecimentos adquiridos em HTML, CSS, Git e GitHub.
 
 - 📲 Responsividade 
 - 🗣️Acessibilidade 
 - 🕵 Otimização SEO
 
-![imagem](https://github.com/images/dindin-logo-white.png)
+![github.com/images/dindin-logo-white.png)
 
 * 🔗 Link do Projeto:
 > https://sandrocrisaraujo.github.io/projeto-gama-grupo-4< 
