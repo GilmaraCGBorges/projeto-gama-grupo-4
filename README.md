@@ -17,9 +17,9 @@ Programa IBRF e Gama Academy, que tem como finalidade fortalecer a especializaç
 	 Responsabilidade, troca de conhecimento, empatia, saber lidar com as diferenças e diferentes formas de aprendizado.
 	O desenvolvimento deu-se com a distribuição de atividades para o desenvolvimento do projeto.
 	<p
-#  ![logo]()  Din Din Finanças 
-##  ✅💻 Primeiro projeto desenvolvido no Gama Academy. 
-### 🟢🟣 Atividade realizada com o intuito de consolidar os conhecimentos adquiridos em:
+
+ ✅💻 Primeiro projeto desenvolvido no Gama Academy. 
+ 🟢🟣 Atividade realizada com o intuito de consolidar os conhecimentos adquiridos em:
 	   HTML, CSS, Git e GitHub.
 
 - 📲 Responsividade 
