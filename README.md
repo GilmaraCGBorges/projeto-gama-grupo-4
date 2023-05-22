@@ -28,7 +28,7 @@ Programa IBRF e Gama Academy, com a finalidade de fortalecer a especialização 
 ![imagem](https://github.com/images/dindin-logo-white.png)
 
 * 🔗 Link do Projeto:
-> https://weltondev.github.io/din-din-project/
+> https://gilmaracgborges.github.io/projeto-gama-grupo-4 /images/dindin-logo-white.png/
 * 🔗 Link do Projeto no Figma:
 > https://www.figma.com/file/fBQ1nm00ynNQPK9GBwyMBc/dindin?node-id=0%3A1
 	
