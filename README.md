@@ -4,7 +4,6 @@
 Projeto Din Din Educação Financeira<a href=images/dindin-logo-white.png
 
 
-## Descrição do Projeto
 <br>
 <p align="center"> Para visualizar o projeto no seu navegador:
  <a href="https:// https://user-images.githubusercontent.com/50848988/239696592-73c42717-4210-4226-86c4-7158a505e32c.gif/"> Clique Aqui <a/>
