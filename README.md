@@ -23,16 +23,14 @@ Programa IBRF e Gama Academy, com a finalidade de fortalecer a especialização 
     <a href="https://github.com/SandroCrisAraujo/projeto_gama_grupo4.git">
 </p>
 <br>
-## Recursos atualizados:
-		
+Recursos atualizados:
 	 HTML
 	 CSS
 	 Javascript
 	 
 </p>
 <br>
-## Contribuição:
-	
+Contribuição:
 	Cristian
 	Fernando
 	Gilmara 
