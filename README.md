@@ -11,7 +11,7 @@ Projeto Din Din Educação Financeira
  <a href="https:// projeto-dindin.netlify.app/"> Clique Aqui <a/>
 </p>
 <br>
-<p align="center">"https://github.com/SandroCrisAraujo/projeto_gama_grupo4.git"</p>
+<p align="center">
 Este projeto tem por finalidade, colocar em prática os aprendizados obtidos nas aulas sincronas e assincronas. 
 	 
 Programa IBRF e Gama Academy, com a finalidade de fortalecer a especialização por meio da educação e promover desenvolvimento social.
