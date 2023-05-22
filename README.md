@@ -17,6 +17,7 @@ Este projeto tem por finalidade, colocar em prática os aprendizados obtidos nas
 Programa IBRF e Gama Academy, com a finalidade de fortalecer a especialização por meio da educação e promover desenvolvimento social.
 	 Além da aprendizagem tecnológica, nós aprendiz, pudemos colocar em prática ou desenvolver algunas soft skill´s necessárias para trabalhos em  grupo:
 	 Responsabilidade, troca de conhecimento, empatia, saber lidar com as diferenças e diferentes formas de aprendizado.
+	O desenvolvimento deu-se com
 
 <h1 align="center">
     <a href="https://github.com/SandroCrisAraujo/projeto_gama_grupo4.git">
