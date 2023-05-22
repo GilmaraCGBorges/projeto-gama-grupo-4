@@ -15,7 +15,8 @@ Este projeto tem por finalidade, colocar em prática os aprendizados obtidos nas
 Programa IBRF e Gama Academy, com a finalidade de fortalecer a especialização por meio da educação e promover desenvolvimento social.
 	 Além da aprendizagem tecnológica, nós aprendiz, pudemos colocar em prática ou desenvolver algunas soft skill´s necessárias para trabalhos em  grupo:
 	 Responsabilidade, troca de conhecimento, empatia, saber lidar com as diferenças e diferentes formas de aprendizado.
-	O desenvolvimento deu-se com
+	O desenvolvimento deu-se com a distribuição de atividades para o desenvolvimento do projeto.
+	<p
 #  ![logo](https://github.com/WeltonDev/din-din-project/blob/main/images/dindin-logo-white.png)  Din Din Finanças 
 ##  ✅💻 Primeiro projeto desenvolvido no Gama Experience 41. 
 ### 🟢🟣 Atividade realizada com o intuito de consolidar os conhecimentos adquiridos em HTML, CSS, Git e GitHub.
