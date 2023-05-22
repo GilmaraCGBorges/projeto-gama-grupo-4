@@ -13,6 +13,7 @@ Projeto Din Din Educação Financeira
 <br>
 <p align="center">"https://github.com/SandroCrisAraujo/projeto_gama_grupo4.git"</p>
 Este projeto tem por finalidade, colocar em prática os aprendizados obtidos nas aulas sincronas e assincronas. 
+	 
 Programa IBRF e Gama Academy, com a finalidade de fortalecer a especialização por meio da educação e promover desenvolvimento social.
 	 Onde além da aprendizagem tecnólogica, nós aprendiz, pudemos colocar em prática ou desenvolver algunas soft skill´s necessárias para trabalhos em  grupo:
 	 Responsabilidade, troca de conhecimento, empatia, saber lidar com as diferenças e diferentes formas de aprendizado.
