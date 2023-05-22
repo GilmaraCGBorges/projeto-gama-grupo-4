@@ -7,7 +7,7 @@ Projeto Din Din Educação Financeira<a href=images/dindin-logo-white.png
 <br>
 <p align="center"> Para visualizar o projeto no seu navegador:
  <a href="https://dindin-educacaofinanceira.netlify.app//"> Clique Aqui <a/>
- <a href="https://https://www.figma.com/file/fBQ1nm00ynNQPK9GBwyMBc/dindin?node-id=0%3A1/"> Clique Aqui <a/>
+ <a href="https://www.figma.com/file/fBQ1nm00ynNQPK9GBwyMBc/dindin?node-id=0%3A1/"> Clique Aqui <a/>
 * 
 ## Descrição do Projeto
 <p align="center">
