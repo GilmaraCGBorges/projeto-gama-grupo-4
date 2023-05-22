@@ -1,7 +1,7 @@
 # Projeto Integrador 
 
 <h1 align="center">Website Din Din - Educação Financeira</h1>
-Projeto Din Din Educação Financeira
+Projeto Din Din Educação Financeira<a href=images/dindin-logo-white.png
 
 
 ## Descrição do Projeto
