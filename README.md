@@ -25,7 +25,7 @@ Programa IBRF e Gama Academy, com a finalidade de fortalecer a especialização 
 - 🗣️Acessibilidade 
 - 🕵 Otimização SEO
 
-![github.com/images/dindin-logo-white.png)
+!image[github.com/images/dindin-logo-white.png)
 
 * 🔗 Link do Projeto:
 > https://sandrocrisaraujo.github.io/projeto-gama-grupo-4< 
